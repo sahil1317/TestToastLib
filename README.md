@@ -1,6 +1,7 @@
 # TestToastLib
 
-[1]: https://img.shields.io/date/1646393790
+
+![example workflow](https://img.shields.io/date/1646393790)
 
 **Steps**
 
