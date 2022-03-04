@@ -1,6 +1,6 @@
 # TestToastLib
 
-Steps
+**Steps**
 
 1. Add it in your root build.gradle at the end of repositories:
 
@@ -11,10 +11,10 @@ allprojects {
 		}
 	}
   
-2. Add the dependency
+2. **Add the dependency**
 
  dependencies {
 	        implementation 'com.github.sahil1317:TestToastLib:Tag'
 	}
-3. Use It
+3. **Use It**
              ToastMe(this).text("Hello ").show()
