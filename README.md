@@ -2,6 +2,7 @@
 
 
 ![example workflow](https://img.shields.io/date/1646393790)
+![](https://img.shields.io/github/v/release/sahil1317/TestToastLib?display_name=tag)
 
 **Steps**
 
