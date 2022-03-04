@@ -16,5 +16,6 @@ allprojects {
  dependencies {
 	        implementation 'com.github.sahil1317:TestToastLib:Tag'
 	}
+	
 3. **Use It**
              ToastMe(this).text("Hello ").show()
